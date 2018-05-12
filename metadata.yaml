@@ -1,0 +1,33 @@
+_repo: Rembrandt-and-His-WorksComprising-a-Short-Account-of-His-Life--with-a-Critical-Examination-in__22690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnet, John
+    birthdate: 1784
+    deathdate: 1868
+    gutenberg_agent_id: '25493'
+    url: http://www.gutenberg.org/2009/agents/25493
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2007-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22690'
+  lccn: '10018154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Etching -- Catalogs'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+title: 'Rembrandt and His Works
+
+  Comprising a Short Account of His Life; with a Critical Examination into His Principles
+  and Practice of Design, Light, Shade, and Colour. Illustrated by Examples from the
+  Etchings of Rembrandt.'
+url: http://www.gutenberg.org/ebooks/22690
