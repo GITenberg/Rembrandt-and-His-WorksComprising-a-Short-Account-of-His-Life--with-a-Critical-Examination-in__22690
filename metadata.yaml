@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25493'
     url: http://www.gutenberg.org/2009/agents/25493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22690#Rembrandt-and-His-WorksComprising-a-Short-Account-of-His-Life--with-a-Critical-Examination-in_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2007-09-20'
 gutenberg_type: Text
